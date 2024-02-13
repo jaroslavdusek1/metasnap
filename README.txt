@@ -1,4 +1,4 @@
-Project Documentation: EXIF Metadata Extractor
+EXIF Metadata Extractor
 
 Description:
 This Python script downloads images from a specified URL and extracts available EXIF metadata. The script is designed to support images that contain EXIF metadata, displaying the results as key-value pairs.
@@ -20,7 +20,7 @@ External Resources:
 The script utilizes sample images from the 'ianare/exif-samples' repository on GitHub for testing and demonstration purposes.
 
 Maintainer:
-[ASCII Art of Maintainer's Name]
+jd
 
 Date:
 October 5, 2023
