@@ -27,3 +27,5 @@ October 5, 2023
 
 Notes:
 The script's effectiveness depends on the presence of EXIF metadata in the target image. It's designed to inform the user when no EXIF data is found or if the image format does not support EXIF metadata.
+
+![pic](https://raw.githubusercontent.com/jaroslavdusek1/metasnap/main/pic.png)
